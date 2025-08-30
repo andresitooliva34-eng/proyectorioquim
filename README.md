@@ -222,7 +222,7 @@
 <!-- BLOQUE CENTRAL -->
 <div class="central" id="inicio">
   <h1>Rioquim</h1>
-  <img src="img/portada.PGN" alt="Portada Rioquim">
+  <img src="img/portada.png" alt="Portada Rioquim">
   <img src="img/frente-del-local.png" alt="Frente del local">
   <p class="lead">
     En Rioquim nos especializamos en soluciones integrales de limpieza: cloro de alta calidad, venenos, artículos de limpieza y productos para automotores. Somos tu aliado en higiene, desinfección y protección. Todo lo que necesitás, en un solo lugar.
@@ -285,10 +285,10 @@
     <p>⭐ “Gracias por elegirnos, tu confianza nos impulsa.”</p>
     <p>💪 “Más que limpieza, confianza.”</p>
     <p>🤝 “Creciendo juntos, día a día.”</p>
-    <p>🏆 “Tu satisfacción es nuestro mejor premio.”p>
+    <p>🏆 “Tu satisfacción es nuestro mejor premio.”</p>
     <p>🌟 “Orgullosos de cada cliente que confía en nosotros.”</p>
-    <p>🧹 “Con vos, todo brilla más.”p>
-    <p>❤️ “Clientes felices, nuestra mejor publicidad.”p>
+    <p>🧹 “Con vos, todo brilla más.”</p>
+    <p>❤️ “Clientes felices, nuestra mejor publicidad.”</p>
   </div>
   <div class="clientes-fotos">
     <img src="img/clienta3-copia.png" alt="Clientes">
