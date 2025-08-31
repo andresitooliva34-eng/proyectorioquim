@@ -179,8 +179,8 @@
 <!-- BLOQUE CENTRAL -->
 <div class="central" id="inicio">
   <h1>Rioquim</h1>
-  <img src="img/portada.png" alt="Portada Rioquim">
-  <img src="img/frente-del-local.png" alt="Frente del local">
+  <img src="portada.png" alt="Portada Rioquim">
+  <img src="frente-del-local.png" alt="Frente del local">
   <p class="lead">
     En Rioquim nos especializamos en soluciones integrales de limpieza: cloro de alta calidad, venenos, artículos de limpieza y productos para automotores. Somos tu aliado en higiene, desinfección y protección. Todo lo que necesitás, en un solo lugar.
   </p>
@@ -193,7 +193,7 @@
 <!-- SECCIONES -->
 <section id="cloro">
   <h2>Cloro</h2>
-  <img src="img/cloro.png" alt="Cloro Rioquim">
+  <img src="cloro.png" alt="Cloro Rioquim">
   <p><strong>Cloro puro Rioquim:</strong> desinfección, blancura, economía y protección en cada gota.</p>
   <ul>
     <li>Desinfección poderosa (bacterias, virus, hongos).</li>
@@ -204,7 +204,7 @@
 
 <section id="venenos">
   <h2>Venenos</h2>
-  <img src="img/venenos.png" alt="Venenos Rioquim">
+  <img src="venenos.png" alt="Venenos Rioquim">
   <p><em>Un entorno limpio y libre de plagas mejora el bienestar.</em></p>
   <ul>
     <li>Eliminación eficaz de cucarachas, mosquitos, hormigas, roedores.</li>
@@ -215,7 +215,7 @@
 
 <section id="automotores">
   <h2>Automotores</h2>
-  <img src="img/555.png" alt="Productos Automotores Rioquim">
+  <img src="555.png" alt="Productos Automotores Rioquim">
   <p><em>Rioquim Automotores: brillo, protección y limpieza total para tu vehículo.</em></p>
   <ul>
     <li>Cuidado del interior: elimina grasa y manchas.</li>
@@ -226,7 +226,7 @@
 
 <section id="articulos">
   <h2>Artículos de limpieza</h2>
-  <img src="img/888.png" alt="Artículos de limpieza Rioquim">
+  <img src="888.png" alt="Artículos de limpieza Rioquim">
   <ul>
     <li>Escobas, trapos, detergentes, esponjas y más.</li>
     <li>Facilidad y rapidez en la limpieza diaria.</li>
